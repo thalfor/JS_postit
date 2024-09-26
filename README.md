@@ -31,11 +31,3 @@ We have:
 Since it's saved on the LocalStorage as long as you are using in the same browser you'll have it saved.
 
 ---
-
-## Next Steps
-
-We'll have:
-
-- Create a user / password database for specific login so in that way you'll be able to access your notes from anywhere.
-
----
