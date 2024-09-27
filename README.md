@@ -6,7 +6,7 @@
 
 ## Project
 
-You can find the project completed [here](https://thalfor.github.io/postitJS)
+You can find the project completed [here](https://thalfor.github.io/JS_postit)
 
 ---
 
